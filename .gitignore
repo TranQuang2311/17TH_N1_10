@@ -1,0 +1,7 @@
+*.vs/
+*.bin/
+*.vs/
+*.obj/
+vs/
+bin/
+obj/
